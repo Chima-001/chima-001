@@ -48,7 +48,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chima-001&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chima-001&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Chima-001&theme=radical&row=1&column=6)
