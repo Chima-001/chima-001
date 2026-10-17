@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Django+%7C+Flask;Building+APIs+%26+Databases;AWS+%7C+PostgreSQL+%7C+Docker;Shell+%7C+Linux+%7C+Terminal+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;JavaScript+%7C+React+%7C+Tailwind+CSS;Python+%7C+C%23+%7C+.NET;Node.js+%7C+Django+%7C+Flask;AWS+%7C+PostgreSQL+%7C+Docker;Shell+%7C+Linux+%7C+Terminal+Workflows" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -48,3 +48,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chima-001&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chima-001&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Chima-001&theme=radical&row=1&column=6)
